@@ -1,18 +1,13 @@
-```diff
-- NOTE: This package is not maintained anymore.
-- If you want to help, please reach out to gwendall.esnault@gmail.com
-```
-
 Meteor Impersonate
 ================
 
-Let admins impersonate other users
+Let admins impersonate other users (Meteor 1.7+ ready)
 
 Installation
 ------------
 
 ``` sh
-meteor add gwendall:impersonate
+meteor add funkyremi:impersonate
 ```
 
 DOM helpers
